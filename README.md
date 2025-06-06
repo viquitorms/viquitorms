@@ -8,5 +8,5 @@
 
 📫Contacts:
 - E-mail: victormsouza@protonmail.com
-- GitHub: https://github.com/VictorVM7
+- Linkedin: https://www.linkedin.com/in/victormagalhaesdesouza/
 - Behance: https://www.behance.net/victormsouza
