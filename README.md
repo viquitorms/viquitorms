@@ -7,6 +7,6 @@
 🚀I'm diving into React.js, JavaScript and Blazor development, Figma Prototyping, Tailwind CSS, DaisyUI, Material UI stylization, Atomic Design, UI/UX, Usability Heuristics and Graphic Design principles for Front-End development. I intend to learn much more about it and some hobby areas like Game Development and Theology as well.
 
 📫Contacts:
-E-mail: victormsouza@protonmail.com
-GitHub: https://github.com/VictorVM7
-Behance: https://www.behance.net/victormsouza
+- E-mail: victormsouza@protonmail.com
+- GitHub: https://github.com/VictorVM7
+- Behance: https://www.behance.net/victormsouza
