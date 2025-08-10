@@ -1,6 +1,6 @@
 ## Hey, my name is Victor! How are you feeling today?
 
-🧑🏻 I am a React and Blazor Front-End Developer and also an university student who loves Graphic Design and Computation. My main working style involves building modern user interfaces, exploring usability and Graphic Design principles to create dynamic and modularized applications with reusable, clean, atomic and customized components.
+🧑🏻 I am a FullStack Developer and also an university student who loves Graphic Design and Computation. My main working style involves building modern user interfaces, exploring usability and Graphic Design principles to create dynamic and modularized applications with reusable, clean, atomic and customized components.
 
 🖥️ Currently, I'm working at LogisticMobile Technology as Full-Stack Developer to Warehouse Management Systems solutions.
 
